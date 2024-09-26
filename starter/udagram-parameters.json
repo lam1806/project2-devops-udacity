@@ -1,0 +1,18 @@
+[
+	{
+		"ParameterKey": "ProjectName",
+		"ParameterValue": "lamnt63-project2-IaC"
+	},
+	{
+		"ParameterKey": "VolumeSize",
+		"ParameterValue": "10"
+	},
+	{
+		"ParameterKey": "KeyPairName",
+		"ParameterValue": "lamnt63_project2"
+	},
+	{
+		"ParameterKey": "ImageId",
+		"ParameterValue": "ami-0a0e5d9c7acc336f1"
+	}
+]
